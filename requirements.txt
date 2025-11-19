@@ -1,0 +1,6 @@
+Flask
+openai==1.12.0
+dashscope
+requests
+redis
+pyyaml
